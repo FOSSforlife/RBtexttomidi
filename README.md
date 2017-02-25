@@ -5,13 +5,13 @@ This software will convert any text string into guitar and bass notes in REAPER 
 Right now, it only works in REAPER 5, which I know isn't helpful for most people in the customs community. I'm working on making it compatible with REAPER 4 in the near future.
 
 How to write/format the text string:
-\n1 = Green note
-2 = Red note
-3 = Yellow note
-4 = Blue note
-5 = Orange note
-x = Rest
-"-" = Extend note (make sure this is followed with an x or another note)
+* 1 = Green note
+* 2 = Red note
+* 3 = Yellow note
+* 4 = Blue note
+* 5 = Orange note
+* x = Rest
+* "-" = Extend note (make sure this is followed with an x or another note)
 
 For example, if I wanted one green, then one red, then a long yellow note:
 123--x
