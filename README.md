@@ -33,4 +33,4 @@ Upcoming features:
 - REAPER 4 compatibility
 - File input
 - Simultaneous notes (green-red, green-yellow, etc)
-- GUI (with several options)
+- GUI (with settngs configuration)
