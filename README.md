@@ -5,6 +5,7 @@ This software will convert any text string into guitar and bass notes in REAPER 
 Right now, it only works in REAPER 5, which I know isn't helpful for most people in the customs community. I'm working on making it compatible with REAPER 4 in the near future.
 
 How to write/format the text string:
+
 It will read from left to right (just like the MIDI editor), with each digit representing one 16th note spot.
 * 1 = Green note
 * 2 = Red note
