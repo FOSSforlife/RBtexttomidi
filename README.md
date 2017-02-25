@@ -18,7 +18,13 @@ For example, if I wanted one green, then one red, then a long yellow note:
 (1 and 2 will be 16th notes, and 3 will be the duration of three 16th notes)
 
 Another example, if I want an 8th note rhythm:
-3x3x4x4x3x5x4x3x2x2x1x2x1x
+3x3x4x5x5x4x3x2x1x1x2x3x2x1x1
+
+Quarter notes:
+3xxx4xxx5xxx4xxx3xxx2xxx1xxx
+
+Quarter notes, sustained:
+3--x4--x5--x4--x3--x2--x1--x
 
 Right now the only way to input the text string is to edit the code and call the function addNotesFromStr(), as exemplified in the main function. Soon you will be able to input from a text file, and once I develop a GUI you will be able to just type it into REAPER.
 
