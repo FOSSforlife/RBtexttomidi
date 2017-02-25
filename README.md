@@ -1,4 +1,6 @@
-# RBtexttomidi - README Updated 2017-02-25
+# RBtexttomidi - Convert text string to Rock Band MIDI notes
+
+README updated 2017-02-25
 
 This software will convert any text string into guitar and bass notes in REAPER for Rock Band customs. To add the script to your REAPER installation, download RBtexttomidi.py and open it using "Show Actions List" -> "Reascript - Load" (the same way you would add CAT). Make sure you have Python installed (if you've already used CAT, you're good).
 
@@ -36,3 +38,4 @@ Right now the only way to input the text string is to edit the code and call the
 - File input
 - Simultaneous notes (green-red, green-yellow, etc)
 - GUI (with settngs configuration)
+- Convert notes to text string (opposite of what it does now)
