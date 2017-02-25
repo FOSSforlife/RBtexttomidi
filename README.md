@@ -11,7 +11,7 @@ How to write/format the text string:
 4 = Blue note
 5 = Orange note
 x = Rest
-- = Extend note (make sure this is followed with an x or another note)
+"-" = Extend note (make sure this is followed with an x or another note)
 
 For example, if I wanted one green, then one red, then a long yellow note:
 123--x
@@ -28,4 +28,3 @@ Upcoming features:
 - File input
 - Simultaneous notes (green-red, green-yellow, etc)
 - GUI (with several options)
-- 
